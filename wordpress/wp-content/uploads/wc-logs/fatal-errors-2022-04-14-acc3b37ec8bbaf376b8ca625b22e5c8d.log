@@ -1,0 +1,303 @@
+2022-04-14T09:12:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\schemes\typography.php on line 4
+
+2022-04-14T10:03:02+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('pinterpower/pin...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('pinterpower/pin...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:06+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:06+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:17+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('pinterpower/pin...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('pinterpower/pin...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:21+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:21+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:38+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('pinterpower/pin...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('pinterpower/pin...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:41+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:42+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:49+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('pinterpower/pin...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('pinterpower/pin...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:53+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:03:53+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:05:21+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('pinterpower/pin...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('pinterpower/pin...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:05:24+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T10:05:24+00:00 CRITICAL Uncaught Error: Class 'pinterpowerPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('pinterpower/pin...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\pinterpower\pinterpower.php on line 16
+
+2022-04-14T12:15:41+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('Pentiminax/Pent...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:15:43+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:15:43+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:16:53+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('Pentiminax/Pent...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:16:55+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:16:55+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:17:11+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('Pentiminax/Pent...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:17:14+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:17:14+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:17:33+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('Pentiminax/Pent...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:17:35+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:17:36+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:19:23+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('Pentiminax/Pent...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:19:26+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:19:26+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:20:24+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('Pentiminax/Pent...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:20:27+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:20:27+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:24:18+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:24:21+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:24:21+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:24:42+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('Pentiminax/Pent...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:24:44+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:24:45+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:25:45+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('Pentiminax/Pent...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:25:48+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T12:25:48+00:00 CRITICAL Uncaught Error: Class 'PentiminaxPlugin' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php:14
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('Pentiminax/Pent...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\Pentiminax.php on line 14
+
+2022-04-14T14:34:19+00:00 CRITICAL Uncaught Error: Call to undefined method Pentiminax\DuplicatePost\Controller\AdminController::verify_request() in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\src\controller\AdminController.php:74
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(307): Pentiminax\DuplicatePost\Controller\AdminController->duplicate_post('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin.php(419): do_action('admin_action_du...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\src\controller\AdminController.php on line 74
+

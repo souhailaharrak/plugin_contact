@@ -1,0 +1,16 @@
+{
+    "name": "pentiminax/duplicate-post",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Pentiminax\\DuplicatePost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "souhaila harrak",
+            "email": "souhaila.harrak.solicode@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,14 @@
+[18-04-2022 13:15:59] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[18-04-2022 13:15:59] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[18-04-2022 13:15:59] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[18-04-2022 13:15:59] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[18-04-2022 13:15:59] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[18-04-2022 13:15:59] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[18-04-2022 13:15:59] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[18-04-2022 13:15:59] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[18-04-2022 13:15:59] Error E_WARNING: imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\wordpress\wp-includes\media.php:3669
+[18-04-2022 13:15:59] Error E_WARNING: imagecopyresampled() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php:206
+[18-04-2022 13:19:48] Error E_WARNING: include_once(C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax/views/notices.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\src\PentiminaxPlugin.php:44
+[18-04-2022 13:19:48] Error E_WARNING: include_once(): Failed opening 'C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax/views/notices.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\src\PentiminaxPlugin.php:44
+[18-04-2022 13:36:05] Error E_WARNING: include_once(C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax/views/notices.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\src\PentiminaxPlugin.php:44
+[18-04-2022 13:36:05] Error E_WARNING: include_once(): Failed opening 'C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax/views/notices.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\Pentiminax\src\PentiminaxPlugin.php:44
